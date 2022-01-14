@@ -11,7 +11,7 @@ Enter your choice of exe
 1. Check Numbers
 2. Tickets
 3. Sudoku
-4. to exit
+4. -1 to exit
 
 #### Task 1 - Check Numbers:
 The purpose of the task is to test an array of positive numbers.
@@ -37,6 +37,15 @@ The program will print:
 #### Task 3 - Sudoku:
 The program checks the correctness of the Sudoku crossword puzzle board. The matrix will represent the sudoku board.
 The size of the board is NxN, and square root of N is an integet.
+
+The program's steps:
+1. Receive from the user the correct board size for sudoku.
+2. Initialize the matrix while receiving data from the user.
+2. Show the matrix.
+2. Write a function that accepts the board and returns whether the board is OK.
+
+#### Task 4 - Exit:
+Enter -1 in the start menu will end thew program.
 
 
 ## How To Run 
