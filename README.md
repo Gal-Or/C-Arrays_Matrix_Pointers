@@ -13,7 +13,7 @@ Enter your choice of exe
 3. Sudoku
 4. to exit
 
-#### Task 1:
+#### Task 1 - Check Numbers:
 The purpose of the task is to test an array of positive numbers.
 The tests:
 1. Are all numbers in the required range, maximum and given minimum.
@@ -25,6 +25,18 @@ The tests:
 
   The output should be:
   All numbers are OK!  4 -> 1-digit numbers,  4 -> 2-digit numbers, 2 -> 3-digit numbers.
+
+#### Task 2 - Order Tickets:
+The program captures pairs of numbers, the first is a number between 1 and 7 that indicates a day, and the second that indicates
+the number of tickets ordered that day. 
+The program continues to pick up pairs of numbers until the number indicating a day is 0. Of course, one should check if the numbers caught are within a valid range and ignore them if they are.
+The program will print:
+* What is the day to which the most tickets were invited, and how many were they.
+* What is the day to which the least tickets were invited, and how many were they.
+
+#### Task 3 - Sudoku:
+The program checks the correctness of the Sudoku crossword puzzle board. The matrix will represent the sudoku board.
+The size of the board is NxN, and square root of N is an integet.
 
 
 ## How To Run 
