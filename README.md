@@ -49,5 +49,5 @@ Enter -1 in the start menu will end thew program.
 
 
 ## How To Run 
-This project runing on linux environment or visual studio.
+This project runing on Ubuntu environment(linux) or visual studio.
 
